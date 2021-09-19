@@ -1,0 +1,4 @@
+<DecodeJWT name="JWT-Decode-HS256">
+    <DisplayName>JWT-Decode-HS256</DisplayName>
+    <Source>param.oauthtoken</Source>
+</DecodeJWT>
